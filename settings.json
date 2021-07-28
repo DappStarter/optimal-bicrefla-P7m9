@@ -1,0 +1,17 @@
+{
+    "name": "CHANXDAPP",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "CHANXICO",
+        "/category/asset_value_tracking/core-token/symbol": "CHX",
+        "/category/asset_value_tracking/core-token/decimals": "3",
+        "/category/asset_value_tracking/core-token/supply": "10000000",
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible",
+        "/category/collection/core-entity": true
+    }
+}
